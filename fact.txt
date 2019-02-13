@@ -1,0 +1,7 @@
+n = input()
+fact(n)
+
+function [answ] = fact(n)
+	A = 1:n
+	answ = prod(A)
+end
