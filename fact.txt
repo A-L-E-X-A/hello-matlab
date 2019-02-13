@@ -1,3 +1,6 @@
+
+% This script might be used in matlab command window
+
 n = input()
 fact(n)
 
